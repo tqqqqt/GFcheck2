@@ -1,0 +1,2 @@
+test for conflict
+a b c
